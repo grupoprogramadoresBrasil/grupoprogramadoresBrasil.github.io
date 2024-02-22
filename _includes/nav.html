@@ -1,0 +1,8 @@
+<div class="blog-masthead">
+    <div class="container">
+        <nav class="blog-nav">
+            {% for item in site.data.nav %}
+            <a class="blog-nav-item" href="{{ item.link }}">{{ item.name }}</a>{% endfor %}
+        </nav>
+    </div>
+</div>

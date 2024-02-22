@@ -1,0 +1,17 @@
+---
+layout: single
+---
+<div class="blog-header">
+    <h3 class="blog-title">{{ page.titulo }}</h3>
+    <p class="lead blog-description">{{ site.description }}</p>
+</div>
+
+<div class="ro">
+<p>
+    {{ page.date | date: "%d/%m/%Y" }} {% assign author = site.authors | where: 'short_name', page.author | first %}
+    {% if author %}
+    - <a href="{{ author.url }}">{{ author.name }}</a>
+    {% endif %}
+</p>
+</div>
+{{ content }}
