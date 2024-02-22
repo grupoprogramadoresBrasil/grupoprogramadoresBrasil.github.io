@@ -26,8 +26,8 @@ obs: A sintaxe deve está extamente igual abaixo (Campos obrigatórios)
 ```
 ---
 layout: post # Obrigatorio
-title:  "Qual melhor distribuição Linux do mundo?" # Obrigatorio
-date:   2020-05-16 21:45:19 -0300             # Obrigatorio
+title:  "Título" # Obrigatorio
+date:   2024-02-22 21:45:19 -0300             # Obrigatorio
 categories: reflexao        # Obrigatorio [SUPORTE A MUTIPLAS CATEGORIAS SEPARADOS POR HÍFEN]
 author_url: UrlMedium       # Opcional
 twitter: urlTwitter         # Opcional
@@ -48,4 +48,3 @@ O seu conteudo deve está abaixo do post recomenda se usar ## para o titulo!
 ```
 ----
 
-Vida longa ao Linux
