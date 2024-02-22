@@ -2,7 +2,7 @@
 layout: post
 titulo: "Git deploy na VPS"
 author: saitam10
-data: 22/02/2024
+data: 22/02/2024 16:30:00 -0300
 image: vps.jpg
 tag: vps
 resumo: "Configurado o ambiente."
