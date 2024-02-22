@@ -1,9 +1,9 @@
 # Site settings
-title: "Grupo Linux para todos"
+title: "Grupo Programadores Brasil"
 email: rmsaitam@gmail.com
 description: "O objetivo do blog colaborativo é publicar posts dos possíveis problemas comuns e dúvidas dos membros no grupo https://t.me/ProgramadoresBrasil, assim basta enviar o link."
 baseurl: "/"
-url: "https://programadoresbr.github.io"
+url: "https://grupoprogramadoresbrasil.github.io"
 twitter_username: "@blogcomputacao"
 github_username:  "rmsaitam"
 color_theme:  "#515151"
