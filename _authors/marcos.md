@@ -1,5 +1,5 @@
 ---
-short_name: @mleandrojr
+short_name: mleandrojr
 name: Marcos Leandro
 position: Moderador
 ---
