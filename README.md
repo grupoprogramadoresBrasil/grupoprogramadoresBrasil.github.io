@@ -1,4 +1,4 @@
-### Blog Linux Brasil
+### Blog Programadores Brasil
 
 # Antes de um blog uma base de conhecimentos
 
@@ -12,6 +12,15 @@ comentados e discutidos por lá ;)
 O blog é mantido pela própria comunidade. Com o passar do tempo temos percebido que o conceito de fórum está ficando um pouco defasado em relação as necessidades que as pessoas tem demonstrado. Não que não tenha mais que existir essa modalidade de troca de conhecimentos, mas os chats e comunicação em tempo real trazem alguma facilidade e agilidade para a troca de informação sobre o problema.
 
 Como nem tudo são flores o chat não é uma boa base de conhecimentos. Não fica claro como o problema se resolveu e o conhecimento adquirido não é formalizado para o grupo. A proposta do blog é que os envolvidos em determinada discussão criem um conteúdo que resuma o que se desenrolou : )
+
+## Como contribuir?
+Para moderadores do grupo https://t.me/ProgramadoresBrasil faz o clone do repositório e acessar o diretório clonado e executar `docker-compose up`
+
+Os membros desse grupo também podem contribuir, nesse caso, faz o fork e clone do repositório, acessar o diretório forkado/clonado e executar `docker-compose up`
+
+Acessar no browser http://localhost:4000 para testes antes de publicar no GitHub Pages.
+
+No caso de membros, é necessário fazer o Pull Request para os moderadores analisarem e estando OK, aprovar.
 
 ## "Issues" para dúvidas recorrentes
 
