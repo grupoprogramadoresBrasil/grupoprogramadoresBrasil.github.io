@@ -1,11 +1,11 @@
 ---
 layout: post
 titulo: "Git deploy na VPS"
-author: saitam10
+author: Saitam10
 data: 22/02/2024 16:30:00 -0300
 image: vps.jpg
 tag: vps
-resumo: "Configurado o ambiente."
+resumo: "Configurando o ambiente."
 ---
 Considerando que já tenha configurado o ambiente e esteja funcionando na VPS, incluindo o GIT. Chegou a hora de automatizar o deploy da aplicação. Esse é o objetivo deste post.
 
